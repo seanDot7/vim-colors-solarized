@@ -1118,4 +1118,4 @@ autocmd ColorScheme * if g:colors_name != "solarized" | silent! aunmenu Solarize
 
 
 " s.7 customized color
-exe "hi! airline_error ctermfg=White"
+hi airline_error ctermfg=254
